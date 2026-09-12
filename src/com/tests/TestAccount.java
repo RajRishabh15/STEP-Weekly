@@ -51,6 +51,5 @@ public class TestAccount {
             System.out.println("[FixedDeposit] Unexpected exception: " + e.getMessage() + " [FAIL]");
         }
 
-        System.out.println("=== Complete Activity 8 polymorphism tests and verify output ===");
     }
 }
